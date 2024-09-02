@@ -18,7 +18,7 @@ Codificação de aplicação para API RESTful com a estrutura pronta para BFF qu
 Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/bff-clean-arch.git
+git clone https://github.com/emersonamorim-dev/bff-clean-arch.git
 ```
 
 ```
