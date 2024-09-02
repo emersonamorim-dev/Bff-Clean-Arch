@@ -1,7 +1,7 @@
 ### BFF Clean Architecture API - Node com Typescript 🚀 🔄 🌐
 
 #### Descrição
-Codificação de aplicação é uma API RESTful com a estrutura pronta para BFF que foi desenvolvida com a arquitetura limpa (Clean Architecture), utilizando Express e TypeScript. O banco de dados utilizado é o PostgreSQL, gerenciado pelo Prisma como ORM. A aplicação inclui autenticação segura de usuários, com armazenamento de senhas criptografadas usando bcrypt. O objetivo deste projeto é demonstrar a aplicação de princípios de arquitetura limpa, separando as responsabilidades em camadas distintas e mantendo a escalabilidade e manutenibilidade do código.
+Codificação de aplicação para API RESTful com a estrutura pronta para BFF que foi desenvolvida com a arquitetura limpa (Clean Architecture), utilizando Express e TypeScript. O banco de dados utilizado é o PostgreSQL, gerenciado pelo Prisma como ORM. A aplicação inclui autenticação segura de usuários, com armazenamento de senhas criptografadas usando bcrypt. O objetivo deste projeto é demonstrar a aplicação de princípios de arquitetura limpa, separando as responsabilidades em camadas distintas e mantendo a escalabilidade e manutenibilidade do código.
 
 
 #### Tecnologias Utilizadas 🛠
